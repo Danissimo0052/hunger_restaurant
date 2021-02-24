@@ -1,0 +1,56 @@
+
+@media (max-width:768px) {
+
+.container{
+  max-width: 500px;
+}
+
+.booking{
+  max-width: 500px;
+}
+
+
+
+.work__hours{
+  display: none;
+}
+
+.intro__title{
+  font-size: 3rem;;
+}
+
+.btn{
+  display: none;
+}
+
+.social__networks{
+  display: none;
+}
+
+.about__img {
+  display: none;
+}
+
+.master__chef__img{
+  display: none;
+}
+
+.private_events__img1{
+  display: none;
+}
+
+.private_events__img2{
+  display: none;
+}
+
+.btn__down{
+  display: none;
+}
+
+.contact__btn{
+  width: 30%;
+  padding: 15px 120px;
+  margin-right: 0;
+}
+
+}
